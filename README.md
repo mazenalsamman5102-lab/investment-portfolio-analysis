@@ -25,3 +25,6 @@ Gained experience using Excel and Gretl for financial data analysis.
 Disclaimer
 
 This project was completed for academic purposes as part of university coursework and is intended to demonstrate financial analysis and portfolio management skills
+## Project Files
+- Investment_Portfolio_Analysis.xlsx : Stock return and portfolio analysis.
+- Normality_Test_Report.pdf : Normality test results and statistical analysis using Gretl.
